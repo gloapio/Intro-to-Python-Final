@@ -1,13 +1,13 @@
 # Proposal
 
 ## What will (likely) be the title of your project?
-Snake_off
 
 TODO
-
+Snake.in
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
 TODO
+
 A snake game where the player gets longer as they eat energy orbs and has to survice obsticles like walls and/or other snakes.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
@@ -28,29 +28,44 @@ TODO, if applicable
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
-Snake movement and eating orbs
-Poles that shrink the snake
-Wall collisions that trigger a falling game over.
-A way to keep score
-Increading difficulty thats manageable
 TODO
+
+Snake movement and eating orbs
+
+Poles that shrink the snake
+
+Wall collisions cause falling
+
+A way to keep score
+
+Increading difficulty thats manageable
+
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
 TODO
+
 Static pole for increasing difficulty
+
 Visuals and sounds to indicate good or bad standing in the game
+
 A simple difficulty scaling system (more speed, and more orbs).
+
 A game background that is captivating
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
 TODO
-Hazard zones that damage the snake.
-Power-ups or power-downs that affect gameplay.
-A high-score system with persistence.
-Polished visual effects and sound design.
-A tutorial or introductory sequence
+
+Damage to snake 
+
+Power-ups or power-down.
+
+A high-score system
+
+Great visual effects and sound design.
+
+A tutorial 
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
